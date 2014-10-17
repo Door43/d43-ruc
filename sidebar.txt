@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ruc:home|Door43 (ruc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ruc|d43-ruc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ruc/archive/master.zip|d43-ruc.zip]]
+
+**Recent Changes**
+{{changes>ns = ruc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ruc|Ethnologue data]]
+
